@@ -1,0 +1,2 @@
+int xspeed,yspeed;
+int
